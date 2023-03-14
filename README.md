@@ -20,7 +20,7 @@ TODO
 # 信息源与参考资料
 * OSI:Open Source Initiative  https://opensource.org/
 * Linux 基金会  https://linuxfoundation.org/ 
-        * OpenSSF https://openssf.org/ 
+    * OpenSSF https://openssf.org/ 
 * TODO Group https://todogroup.org/ 
 * Apache 基金会 https://apache.org/
 * Github:Open Source Guides https://opensource.guide/
