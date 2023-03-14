@@ -21,6 +21,10 @@ TODO
 * OSI:Open Source Initiative  https://opensource.org/
 * Linux 基金会  https://linuxfoundation.org/ 
     * OpenSSF https://openssf.org/ 
-* TODO Group https://todogroup.org/ 
+    * CNCF https://www.cncf.io/ 
+    * LF AI&DATA https://lfaidata.foundation/ 
+    * TODO Group https://todogroup.org/ 
+    * FINOS InnerSource SIG https://github.com/finos/InnerSource
+    * OpenChain Project https://www.openchainproject.org/ 
 * Apache 基金会 https://apache.org/
 * Github:Open Source Guides https://opensource.guide/
