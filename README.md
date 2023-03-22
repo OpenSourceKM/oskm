@@ -28,4 +28,5 @@ TODO
     * OpenChain Project https://www.openchainproject.org/ 
 * Apache 基金会 https://apache.org/
 * Github:Open Source Guides https://opensource.guide/
+* https://github.com/github/github-ospo/
 * InnerSource Commons https://innersourcecommons.org/ 
