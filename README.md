@@ -1,5 +1,5 @@
 # OSKM 是什么？ What is OSKM ? 
-OSKM ~ Open Source Knowledge Map 开源知识地图 
+OSKM ~ Knowledge Map of Open Source 开源知识地图 
 
 # 如何开发？ How to develop ? 
 TODO 
