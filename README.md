@@ -1,4 +1,6 @@
 # OSKM 是什么？ What is OSKM ? 
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_shield)
+
 OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过社区协作来开发和维护一个开源领域的公共知识地图。
 
 ## 当前呈现形式
@@ -36,4 +38,6 @@ TODO
 * InnerSource Commons https://innersourcecommons.org/ 
 
 
-[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_shield) 
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_large)
