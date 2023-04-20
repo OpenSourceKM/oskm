@@ -1,5 +1,7 @@
 # OSKM 是什么？ What is OSKM ? 
+![github](https://img.shields.io/static/v1?label=OSKM&message=%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE&color=%3Cblue%3E)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_shield)
+
 
 OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过社区协作来开发和维护一个开源领域的公共知识地图。
 
