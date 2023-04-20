@@ -34,3 +34,6 @@ TODO
 * Github:Open Source Guides https://opensource.guide/
 * https://github.com/github/github-ospo/
 * InnerSource Commons https://innersourcecommons.org/ 
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_shield) 
