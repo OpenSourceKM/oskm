@@ -1,16 +1,21 @@
 ---
 markmap:
-  initialExpandLevel: 2
-  maxWidth: 400
+  initialExpandLevel: 3
+  maxWidth: 600
 ---
 
 # OSKM 开源知识地图 
 
-## NODE1
-### 101
-### 102
-### 103
+## Domain1
+### Term1
+### Term2
+### Term3
 
-## NODE2
+## Domain2
+### Term1
+### Term2
 
-## NODE3
+## Domain3
+### Term1
+### Term2
+
