@@ -10,6 +10,7 @@ OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过社区协�
 2. 知识树  TODO     
 3. 印刷品  TODO 
 
+
 ## 我们如何开发？
 TODO 
 
@@ -32,14 +33,18 @@ TODO
 > ````![OpenSourceKM/oskm](https://img.shields.io/static/v1?label=OSKM&message=%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE&color=blue) ````
 
 
+
 ## 项目支持与赞助
 感谢以下组织及个人对于本项目给予不同类型的大力支持。
 
 |组织/个人|网站/介绍|说明|
 |:----|:----:|:----:|
 | vivo互联网技术  | 在微信公众号及各个技术社区关注 @vivo互联网技术   |    |
-| LFAPAC OpenEvagle SIG |  https://openevangel.com/<br/>https://github.com/lfapac-open-source-evangelist/  |     |
-| 虚位以待 | 如果你或你所在的组织希望支持本项目，请通过一个新的 Issue 来提出。 |  | 
+| LFAPAC Open Source Evangelist SIG  译道师|  https://openevangel.com/<br/>https://github.com/lfapac-open-source-evangelist/  |     |
+| :smile:虚位以待 | 如果你或你所在的组织希望支持本项目，请通过一个新的 Issue 来提出。 |  | 
+| :smile:| | |
+| :smile:| | |
+
 
 ## 信息源与参考资料
 * OSI:Open Source Initiative  https://opensource.org/
@@ -54,6 +59,7 @@ TODO
 * Github:Open Source Guides https://opensource.guide/
 * https://github.com/github/github-ospo/
 * InnerSource Commons https://innersourcecommons.org/ 
+
 
 ## License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_large)
