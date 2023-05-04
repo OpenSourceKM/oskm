@@ -33,6 +33,9 @@ TODO
 > ````![OpenSourceKM/oskm](https://img.shields.io/static/v1?label=OSKM&message=%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE&color=blue) ````
 
 
+## 加入社区
+TODO  
+
 
 ## 项目支持与赞助
 当前需要的支持形式：
