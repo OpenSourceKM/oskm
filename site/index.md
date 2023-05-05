@@ -1,3 +1,3 @@
 # Welcome to OSKM 
 
-Here is test release page .
+Here is default release page .
