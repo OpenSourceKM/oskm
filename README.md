@@ -34,7 +34,8 @@ TODO
 
 
 ## 加入社区
-TODO  
+1. 我们使用 GitHub Discussion 作为社区活动阵地，你可以在此介绍自己  https://github.com/orgs/OpenSourceKM/discussions/4 以便其他社区成员认识并了解你。
+2. 更具及时性的微信群：  添加微信 nodexy 为好友并备注 OSKM ，即可获邀加入。
 
 
 ## 项目支持与赞助
