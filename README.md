@@ -7,17 +7,17 @@
 # OSKM 是什么？  
 OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过社区协作来开发和维护一个开源领域的公共知识地图，用于指导个人及组织学习、研究、使用、参与贡献开源，以及创建自己的开源项目与社区，推动开源生态的可持续发展。
 
-## 呈现形式
+## 1 呈现形式
 1. 思维导图 https://oskm.netlify.app/map/  
-2. 知识树  TODO     
-3. 印刷品  TODO 
+2. 知识树与知识图谱       
+3. 印刷品  
 
 
-## 我们如何开发？
+## 2 我们如何开发？
 TODO 
 
 
-## OSKM 框架
+## 3 OSKM 框架
 - Domain
   - term 
   - term
@@ -25,14 +25,24 @@ TODO
 - Topic 
 - Story & Case 
 
+## 4 元信息
 ### 术语表 
 [开源术语表](https://github.com/opensourcekm/glossary)
+### 版本更新及发布策略
+TODO
 
-## 应用场景
+### 可视化方案及其更新策略
+TODO
+
+###  引用管理及统计 
 TODO
 
 
-## 如何参与？
+## 5 应用场景
+TODO
+
+
+## 6 如何参与？
 1. 向可能需要本项目或其中部分内容的任何人介绍本项目，帮助解决他们的问题，给他们带来价值。
 2. 参与已有 Issue 讨论，发表自己的见解，帮助问题的推进和解决；或者认领该 Issue 中的最终决策的待办事项，以 PR 形式提交自己的解决方案。
 3. 创建新的 Issue 来介绍自己的新提案，或反馈已有问题及建议的解决方案，在获得社区认可和确认方案后，可优先以 PR 形式提交解决方案。
@@ -42,12 +52,12 @@ TODO
 > ````![OpenSourceKM/oskm](https://img.shields.io/static/v1?label=OSKM&message=%E5%BC%80%E6%BA%90%E7%9F%A5%E8%AF%86%E5%9C%B0%E5%9B%BE&color=blue) ````
 
 
-## 加入社区
+## 7 加入社区
 1. 我们使用 GitHub Discussion 作为社区活动阵地，你可以在此介绍自己  https://github.com/orgs/OpenSourceKM/discussions/4 以便其他社区成员认识并了解你。
 2. 更具及时性的微信群：  添加微信 nodexy 为好友并备注 OSKM ，即可获邀加入。
 
 
-## 项目支持与赞助
+## 8 项目支持与赞助
 当前需要的支持形式：
 - 参与讨论和贡献开源相关的知识领域和知识主题
 - 提供用于托管知识地图的云主机和/或域名服务 
@@ -66,7 +76,7 @@ TODO
 | :smile:| | |
 
 
-## 信息源与参考资料
+## 9 信息源与参考资料
 * OSI:Open Source Initiative  https://opensource.org/
 * Linux 基金会  https://linuxfoundation.org/ 
     * OpenSSF https://openssf.org/ 
@@ -81,5 +91,5 @@ TODO
 * InnerSource Commons https://innersourcecommons.org/ 
 
 
-## License
+## 10 License
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_large)
