@@ -57,9 +57,9 @@ TODO
 
 |组织/个人|网站/介绍|说明|
 |:----|:----:|:----:|
-| vivo互联网技术  | 在微信公众号及各个技术社区关注 @vivo互联网技术   |    |
-| LFAPAC Open Source Evangelist SIG  译道师|  https://openevangel.com/<br/>https://github.com/lfapac-open-source-evangelist/  |     |
-| :smile:虚位以待 | 如果你或你所在的组织希望支持本项目，请通过一个新的 Issue 来提出。 |  | 
+| vivo互联网技术  | 在微信公众号及各个技术社区关注 @vivo互联网技术   |  项目发起者  |
+| LFAPAC Open Source Evangelist SIG  译道师|  https://openevangel.com/<br/>https://github.com/lfapac-open-source-evangelist/  |   项目支持者  |
+| :smile:虚位以待 | 如果你或你所在的组织希望支持本项目，<br/>请通过一个新的 Issue 来提出。 |  | 
 | :smile:| | |
 | :smile:| | |
 
