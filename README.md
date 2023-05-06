@@ -25,6 +25,8 @@ TODO
 - Topic 
 - Story & Case 
 
+### 术语表 
+[开源术语表](https://github.com/opensourcekm/glossary)
 
 ## 应用场景
 TODO
