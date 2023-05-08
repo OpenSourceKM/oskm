@@ -92,4 +92,6 @@ TODO
 
 
 ## 10 License
+CC_BY_SA_4.0 https://creativecommons.org/licenses/by/4.0/
+
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FOpenSourceKM%2Foskm?ref=badge_large)
