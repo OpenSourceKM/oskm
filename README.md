@@ -28,6 +28,7 @@ TODO
 ## 4 元信息
 ### 术语表 
 [开源术语表](https://github.com/opensourcekm/glossary)
+
 ### 版本更新及发布策略
 TODO
 
@@ -37,6 +38,8 @@ TODO
 ###  引用管理及统计 
 TODO
 
+### 资源匹配之 超级列表
+[开源知识地图 之 超级列表](https://github.com/OpenSourceKM/list-of-list) 针对部分知识主题以列表形式匹配已有资源，如开源组织、许可证、图书、影视及周边等。
 
 ## 5 应用场景
 TODO
