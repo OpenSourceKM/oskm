@@ -22,4 +22,4 @@ jobs:
             🎉 @{{ author }}
             恭喜，你的第一个PR 已被合并！Congrats on merging your first pull request! We here at behaviorbot are proud of you!
 
-          STAR_MESSAGE: If you like this project, please ⭐star⭐ our repo.
+          STAR_MESSAGE: 喜欢请点⭐star⭐ If you like this project, please ⭐star⭐ our repo.
