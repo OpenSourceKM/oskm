@@ -8,7 +8,7 @@
 OSKM ~ Knowledge Map of Open Source 开源知识地图，旨在通过开放协作来开发和维护一个开源领域的公共知识地图，用于指导个人及组织学习、研究、使用、参与贡献开源，以及创建自己的开源项目与社区，制定自己的开源战略，从而推动实现开源生态的可持续发展。
 
 ## 1 发布形式
-1. 思维导图 oskm.zetaa.cc/map/  
+1. 思维导图 oskm.zetaa.cc/map/  源文件 [./map/Content/oskm.md](https://github.com/OpenSourceKM/oskm/blob/main/map/Content/oskm.md)
 2. 横版泳道图（区别于技术领域的泳道图，即网络上知识付费领域常见的各种XXXX知识地图）
 3. 知识管理工具专页
     - Notion
